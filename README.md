@@ -1,7 +1,7 @@
-# Portfólio Análise de Dados - Marlon Pugss
+# <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Me chamo Marlon </h1>
 Meu objetivo é gerar valor as pessoas e empresas criando dashboards interativos e com fácil visualização dos dados e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.
 
-# Projetos
+# Projetos Análise de Dados
 Os projetos são apresentados em Power BI e Data Studio.
 
 <br />
