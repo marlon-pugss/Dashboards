@@ -26,5 +26,3 @@ Os projetos são apresentados em Power BI e Data Studio.
 
 <br />
 <br />
-
-Para eventuais contatos, envie um e-mail para **contatomarlonpugss@gmail.com** ou pelo meu perfil no [Linkedin](www.linkedin.com/in/marlon-pugss)
